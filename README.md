@@ -17,6 +17,7 @@ this package requires the following:
 -NumPy
 -Matplotlib
 
+
 ### Copyright
 
 Copyright (c) 2020, Hannah Piston
