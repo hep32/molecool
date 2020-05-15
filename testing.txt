@@ -6,6 +6,7 @@ Now I added a new line!
 This is the start of testing.txt
 ***********************************
 
+added through github
 
 This line doesnt add any value
 
